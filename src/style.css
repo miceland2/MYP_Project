@@ -1,0 +1,19 @@
+.Background = {
+	background: 'green';
+	width: 1250;
+	height: 325;
+}
+
+.Padlet = {
+	background: 'green';
+	textAlign: 0;
+	border: 4;
+	borderRadius: 20;
+	width: 400;
+	height: 550;
+	marginWidth: 0;
+}
+
+.Button {
+	width: 200px;
+}
